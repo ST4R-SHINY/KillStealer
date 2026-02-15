@@ -35,3 +35,6 @@ python3 killstealer.py
 ### ⚠️ Disclaimer
 
 **- This project is for educational purposes only and must be used only in controlled environments and on systems you own or have permission to test**
+
+### ⚠️ Disclaimer
+**-this is a test version coming soon full version in github**
